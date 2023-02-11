@@ -1,0 +1,29 @@
+.backButton {
+  margin-left: 24px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  height: 24px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.row1V {
+  display: flex;
+}
+
+.column1 {
+  flex: 20%;
+  margin: 16px;
+  height: 350px;
+  width: 20%;
+}
+
+.column2 {
+  flex: 60%;
+
+  margin: 16px;
+}
+.column3 {
+  flex: 20%;
+  margin: 16px;
+}
